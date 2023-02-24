@@ -1,4 +1,4 @@
-local _utils = require "komar-utilities.utils"
+local _utils = require "komar_utilities.utils"
 
 ---@brief [[
 --   Utilities.nvim is a collection of Lua functions wrapped into a plugin.
@@ -10,7 +10,7 @@ local _utils = require "komar-utilities.utils"
 -- <code>
 -- require('utilities').setup({})
 -- </code>
-function utilties.setup(opts)
+function komar_utilties.setup(opts)
   opts = opts or {}
 
   if opts.default then
