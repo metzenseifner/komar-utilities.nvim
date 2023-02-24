@@ -10,7 +10,7 @@ local _utils = require "komar_utilities.utils"
 -- <code>
 -- require('utilities').setup({})
 -- </code>
-function komar_utilties.setup(opts)
+function komar_utilities.setup(opts)
   opts = opts or {}
 
   if opts.default then
