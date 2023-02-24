@@ -1,4 +1,4 @@
-local _utils = require "utilities.utils"
+local _utils = require "komar-utilities.utils"
 
 ---@brief [[
 --   Utilities.nvim is a collection of Lua functions wrapped into a plugin.
