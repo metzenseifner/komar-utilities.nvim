@@ -1,4 +1,4 @@
-local _utils = require "komar_utilities.utils"
+local _utils = require "komar-utilities.utils"
 
 local M = {}
 ---@brief [[
